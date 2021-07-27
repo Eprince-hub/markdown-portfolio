@@ -9,12 +9,14 @@ These are *what* makes me **Special**
    * PHP
    * CoffeeScript
 
+
 * ## Colaboration
    * Git-GitHub
    * Scrum and Agile Methodologies
    * ED
    * Oyey
    * Slack
+
 
 * ## Tools
    * Visual Studio Code
